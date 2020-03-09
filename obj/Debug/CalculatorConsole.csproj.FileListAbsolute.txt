@@ -1,0 +1,7 @@
+E:\C# Programs\CalculatorConsole\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+E:\C# Programs\CalculatorConsole\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+E:\C# Programs\CalculatorConsole\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+E:\C# Programs\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.csprojAssemblyReference.cache
+E:\C# Programs\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.CoreCompileInputs.cache
+E:\C# Programs\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+E:\C# Programs\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
